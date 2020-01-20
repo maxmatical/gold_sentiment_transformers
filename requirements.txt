@@ -1,2 +1,5 @@
 fastai>=1.0.60
 transformers
+voila
+packaging
+ipywidgets==7.5.1
